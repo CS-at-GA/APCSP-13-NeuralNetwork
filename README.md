@@ -1,6 +1,10 @@
-# Assignment Title
+# Neural Network
+
+Create a Neural Network and a program that can make predictions utilizing the Neural Network
 
 ## Pre-reads
+
+https://learn.ml5js.org/#/reference/neural-network
 
 ## Starter Code Overview
 
