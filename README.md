@@ -10,7 +10,7 @@ Create a Neural Network and a program that can make predictions utilizing the Ne
   * [Current best answer concerning hidden layers](https://stats.stackexchange.com/questions/181/how-to-choose-the-number-of-hidden-layers-and-nodes-in-a-feedforward-neural-netw)
   * [Configuring layers](https://machinelearningmastery.com/how-to-configure-the-number-of-layers-and-nodes-in-a-neural-network/)
   * [Activation Functions](https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/)
-* Peruse the UC-Irvine Machine Learning Repository of datasets: https://archive-beta.ics.uci.edu/datasets. Try filtering by classification problems (though you are free to try regression problems as well). 
+* Peruse the UC-Irvine Machine Learning Repository of datasets: https://archive-beta.ics.uci.edu/datasets. Try filtering by classification problems (though you are free to try regression problems as well), since that will be your most straightforward path through this assignment.  
 
 ## Starter Code Overview
 
@@ -26,8 +26,13 @@ Find a dataset, build a neural network with it, and make classifications with it
 
 ### Requirements
 
+* You need to use a different dataset appropriate for your neural network's objective (classification or regression)
+* Your program should ouput the result of giving new data to the network, as well as the confidence.
+* Build in saving and loading functionality (using the appropraite ml5 functions) so that once you have your model trained as you like it, you don't have to retrain it every time the sketch runs. 
+
 ### _Some_ Ideas for Ways to Expand on This Project. 
 
-A more full-featured input method (text input, sliders)
+* Build a more full-featured input method (text input, sliders)
+* Really dig in to the _hyper parameters_ for your model. 
 
 <!--- Footnotes Below --->
